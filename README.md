@@ -17,7 +17,7 @@ This project is meant to make creating a detailed and useable readme file easier
 
 ## Installation
 
-no
+N/A
 
 ## Usage
 
